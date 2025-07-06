@@ -1,4 +1,4 @@
-#### Hi, I'm Sreeharsha!
+#### Hi, I'm Harsha!
 I am a PhD student in Computer Science at the University of Waterloo.
 
 Skills: Parallel Programming, Distributed Systems
